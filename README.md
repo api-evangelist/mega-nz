@@ -65,4 +65,19 @@
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
 MEGA is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://mega.nz/
+
+**Areas:** Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mega.nz/)
+- [Support](https://mega.nz/help)
+- [Security](https://mega.nz/security)
+- [Terms of service](https://mega.nz/terms)
+- [Privacy policy](https://mega.nz/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/mega-nz/](https://apis.io/providers/mega-nz/).
